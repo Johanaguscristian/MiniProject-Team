@@ -1,0 +1,11 @@
+1) git clone https://github.com/riswan29/MiniProject-Team.git
+or
+git clone git@github.com:riswan29/MiniProject-Team.git
+
+2) git pull
+
+Back-end:
+open cmd/terminal :
+- pip install django
+- pip install pillow
+- 
