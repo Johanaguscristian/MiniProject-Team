@@ -8,4 +8,11 @@ Back-end:
 open cmd/terminal :
 - pip install django
 - pip install pillow
-- 
+- django-admin startproject sosial
+- python manage.py runserver
+- python manage.py migrate
+- python manage.py createsuperuser (username,email,password bebas mau isi apa aja)
+- django-admin startapp beranda
+- python manage.py runserver
+- buka browser , salin link : http://127.0.0.1:8000/admin
+- login sesuai user sama password yang udah dibuat barusan
